@@ -12,6 +12,6 @@
 + https://m.apkpure.com/termux/com.termux/download/62-APK
 + https://m.apkpure.com/termux/com.termux/download/61-APK
 + https://m.apkpure.com/termux/com.termux/download/60-APK
-+ https://m.apkpure.com/termux/com.termux/download/59-APK
+
 
 
